@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "dataUpdatedTime": "2024-03-25T10:36:54Z",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 99483503,
+                "time": "2024-03-25T10:32:52Z",
+                "created": "2024-03-25T10:35:51Z",
+                "tasks": ["PREVENTING_MELTING_WATER_PROBLEMS"],
+                "direction": null,
+                "domain": "state-roads",
+                "source": "Harja/Väylävirasto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.613287, 62.135912, 0.0]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 99483754,
+                "time": "2024-03-25T10:34:02Z",
+                "created": "2024-03-25T10:36:53Z",
+                "tasks": ["LEVELLING_OF_ROAD_SURFACE"],
+                "direction": null,
+                "domain": "state-roads",
+                "source": "Harja/Väylävirasto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.89978, 62.230827, 0.0]
+            }
+        }
+    ]
+}

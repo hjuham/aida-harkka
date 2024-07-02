@@ -1,0 +1,1 @@
+Harjauksen korrelaatio useammalta mittausasemalta. Tarkemmat koordinaatit mittausasemille: http://opendata.fmi.fi/wfs?service=WFS&version=2.0.0&request=GetFeature&storedquery_id=urban::observations::airquality::hourly::multipointcoverage

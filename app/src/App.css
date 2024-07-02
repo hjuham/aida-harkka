@@ -1,0 +1,602 @@
+/* Banner tyylit */
+.banner {
+    z-index: 10000;
+    position: fixed;
+    top: 0;
+    background-color: #0d004c;
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    height: 100%;
+    width: 50em;
+}
+
+.banner ul li {
+    width: 100%;
+}
+
+.banner .active {
+    color: red;
+}
+
+.banner ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    height: 100%;
+}
+
+.banner ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Tietoa-sivun tekstin tyylit */
+
+.infopage {
+    margin-top: 6em;
+    display: flex;
+    justify-content: center;
+}
+
+.infopage .infodiv {
+    padding-top: 3em;
+    text-align: center;
+    width: 40%;
+}
+
+.infopage .infodiv h1 {
+    font-size: 3em;
+}
+
+.infopage .infodiv p {
+    padding-top: 3em;
+    line-height: 2em;
+}
+
+.infopage img {
+    width: 100%;
+    margin-top: 1em;
+}
+
+/* Etusivun linkkien tyylit */
+
+.linkdiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.linkdiv a {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 5em;
+    background-color: bisque;
+    text-decoration: none;
+}
+
+.linkdiv a img {
+    width: 100%;
+}
+
+/* Leaflet tyylit */
+
+.leaflet-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background-color: rgba(13, 0, 76, 0.8) !important;
+    color: white !important;
+}
+
+.leaflet-popup-content-wrapper b,
+.leaflet-popup-tip b {
+    color: #e2066f !important;
+}
+
+.leaflet-top {
+    margin-top: 7em;
+    z-index: 111000;
+    position: fixed;
+}
+
+/* Selitteen tyylit */
+
+.infobox {
+    font-size: 1em;
+    padding-left: 1em;
+    color: white;
+    width: 16em;
+    height: 23em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76, 0.95);
+    border-radius: 0 30px 0 0;
+    border: 1px solid black;
+}
+
+.infobox h2 {
+    padding: 0.2em 0 0.2em 0;
+    width: 5em;
+}
+
+.infobox .top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.infobox button {
+    margin-right: 1em;
+    background: none;
+    color: red;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.infobox h3 {
+    padding: 0.2em 0 1em 0;
+}
+
+.infobox p {
+    opacity: 100%;
+}
+
+.infobox img {
+    height: 2em;
+    width: 2em;
+}
+
+.infobox input {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+/* Selitteen värien tyylit */
+.routecolors {
+    list-style-type: none;
+}
+
+.routecolors li {
+    display: flex;
+    margin-top: 0;
+    height: 4em;
+}
+
+.routecolors span {
+    height: 0em;
+    font-size: 4em;
+    vertical-align: bottom;
+    margin: -1em 0.1em 0 0.1em;
+}
+
+.routecolors li p {
+    display: inline-block;
+    height: 2em;
+}
+
+/* Pienennetty selite */
+.infobox-min {
+    width: 4em;
+    height: 4em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76, 0.95);
+    border-radius: 0 25px 0 0;
+}
+
+.infobox-min button {
+    background: none;
+    color: red;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+    font-size: 3em;
+    padding: 0 0.5em 0 0.5em;
+}
+
+/* Kartan metodit */
+
+.mapmethods {
+    border-left: 3px solid black;
+    padding-left: 1em;
+    color: white;
+    width: 20em;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76);
+    overflow-y: scroll;
+}
+
+.mapmethods .toggle {
+    float: right;
+    background: none;
+    color: red;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+    font-size: 3em;
+    padding-right: 0.5em;
+    padding-top: 0.2em;
+}
+
+.mapmethods h2 {
+    margin-top: 3em;
+}
+
+.mapmethods input {
+    width: 90%;
+    margin: 1em 1em 0.5em 0;
+}
+
+.mapmethods .towns {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    height: 10em;
+    overflow: hidden;
+    overflow-y: scroll;
+    background-color: white;
+}
+
+.mapmethods .towns li {
+    color: black;
+    text-align: center;
+    width: 100%;
+    background: none;
+    border: 1px black solid;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.mapmethods .custom {
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+}
+
+.mapmethods .custom button {
+    margin: 0.5em;
+}
+
+.mapmethods .filter {
+    width: 90%;
+}
+
+.mapmethods .filter h2 {
+    margin-bottom: 1em;
+}
+
+.mapmethods .filter .tasks {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 10em;
+    overflow: hidden;
+    overflow-y: scroll;
+    background-color: white;
+}
+
+.mapmethods .filter .tasks li {
+    color: black;
+    text-align: center;
+    width: 100%;
+    background: none;
+    border: 1px black solid;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.mapmethods .filter button {
+    margin: 1em 0.5em 0 0;
+}
+
+.mapmethods .link {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.mapmethods .link a {
+    color: white;
+}
+
+.min-mapmethods {
+    padding-left: 1em;
+    height: 8vh;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76);
+    border-radius: 0 0 0 1em;
+}
+
+.min-mapmethods button {
+    width: 1.5em;
+    height: 100%;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+    font-size: 3em;
+    padding-right: 0.5em;
+    padding-top: 0.2em;
+}
+
+.min-mapmethods img {
+    height: 100%;
+    width: 100%;
+}
+
+/* Ilmoituslaatikon tyylit (lataus ja vikailmoitukset) */
+
+.messagebox {
+    width: 20em;
+    height: 10em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76, 0.8);
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.statbox {
+    width: 60em;
+    height: 45em;
+    position: absolute;
+    left: 15%;
+    top: 10%;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 10000;
+    background-color: rgba(13, 0, 76, 1);
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    z-index: 1000;
+}
+
+.statbox button {
+    float: right;
+    background: none;
+    color: red;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+    font: bold;
+    font-size: 1.5em;
+}
+
+.statbox p {
+    margin-top: 1em;
+}
+
+.statbox select {
+    margin: 1em 0 5em 0;
+}
+
+.statbox .chartDiv {
+    background-color: white;
+    height: 30em;
+}
+
+.statbox .chartDiv h2 {
+    color: black;
+    text-align: center;
+}
+
+.maplayers {
+    width: 8em;
+    height: 20em;
+    position: absolute;
+    left: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    top: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 10000;
+    background-color: white;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.maplayers ul {
+    width: 5em;
+}
+
+
+.maplayers ul li button {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1em;
+}
+
+.maplayers ul li button:hover {
+    color: #0d004c;
+}
+
+.maplayers ul li button img {
+    width: 100%
+}
+
+.maplayers label {
+    color: black;
+}
+
+
+.maplayers .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.maplayers .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.maplayers .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.maplayers .slider:hover {
+    background-color: #0d004c;
+}
+
+.maplayers .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.maplayers input:checked+.slider {
+    background-color: #0d004c;
+}
+
+.maplayers input:focus+.slider {
+    box-shadow: 0 0 1px #0d004c;
+}
+
+.maplayers input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+.dark {
+    filter: invert(1)
+}
+
+/* Mobiili ja pienet näytöt */
+
+/* MapMethods koko näytön kokoiseksi pienillä näytöillä, kun MapMethods ei enää peitä selitettä */
+@media (max-width: 600px) {
+    .mapmethods {
+        width: 100%;
+    }
+
+    .infopage .infodiv {
+        width: 90%;
+    }
+}
+
+/* Tilastoikkuna koko näytön kokoiseksi pienillä näytöillä */
+@media (max-width: 1500px) or (max-height: 800px) {
+    .statbox {
+        width: 100%;
+        height: 100%;
+        z-index: 111000;
+        left: 0;
+        top: 0;
+    }
+
+    .statbox .chartDiv {
+        height: 75%;
+        width: 100%;
+    }
+
+    .statbox select {
+        margin-bottom: 1em;
+    }
+}
+
+@media (max-width: 1500px) and (orientation: landscape) {
+    .statbox .chartDiv {
+        height: 60%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .banner ul {
+        width: 80%;
+    }
+
+    .banner ul li {
+        width: 100vw;
+    }
+}
+
+@media (orientation: landscape) and (max-height: 600px) {
+    .banner {
+        height: 15vh;
+    }
+
+    .min-mapmethods {
+        height: 15vh;
+    }
+
+    .infobox {
+        font-size: 0.8em;
+    }
+}

@@ -1,0 +1,171 @@
+Nimi;FMSID;LPNN;WMO;Lat;Lon;Korkeus;Ryhmät;Alkaen
+Hailuoto Kujalannurkka;104109;;;65;24.69;4;ilmanlaatu (IL);1995
+Hailuoto Marjaniemi;101784;5310;2873;65.04;24.56;7;sää, ilmanlaatu (IL);1881
+Helsinki Kumpula;101004;339;2998;60.2;24.96;24;sää, sade, ilmanlaatu (IL);2005
+Hämeenlinna Kotinen;101188;1437;;61.24;25.07;158;ilmanlaatu (IL);1987
+Ilomantsi Pötsönvaara;101649;3917;2766;63.14;31.04;237;sää, ilmanlaatu (IL);1997
+Inari Raja-Jooseppi;102009;8704;2818;68.48;28.3;253;sää, ilmanlaatu (IL);1992
+Juupajoki Hyytiälä;101317;2303;2770;61.85;24.29;154;sää, sade, ilmanlaatu (IL), ilmanlaatu (kaupungit);1956
+Kittilä Lompolonvuoma;778135;8303;2764;68;24.21;270;sää, ilmanlaatu (IL);2013
+Kittilä Matorova;101985;8310;2882;68;24.24;339;sää, ilmanlaatu (IL);1995
+Kuopio Puijo;101587;3618;;62.91;27.66;230;ilmanlaatu (IL);2010
+Kuusamo Juuma;101899;6814;2749;66.32;29.4;298;sää, ilmanlaatu (IL);1989
+Lieksa Hietajärvi;101650;3918;;63.17;30.71;173;ilmanlaatu (IL);1987
+Muonio Sammaltunturi;101983;8308;2821;67.97;24.12;555;sää, ilmanlaatu (IL);1991
+Parainen Utö;100908;2;2981;59.78;21.37;6;sää, sade, ilmanlaatu (IL);1881
+Salla Värriötunturi;102012;8803;2819;67.75;29.61;360;sää, sade, ilmanlaatu (IL), ilmanlaatu (kaupungit);1971
+Sodankylä Heikinheimo-masto;101942;7511;2742;67.36;26.64;179;ilmanlaatu (IL);2000
+Sodankylä Tähtelä;101932;7501;2836;67.37;26.63;179;sää, luotaus, ilmanlaatu (IL);1891
+Utsjoki Kevo;102035;9603;2805;69.76;27.01;107;sää, ilmanlaatu (IL);1961
+Virolahti Harju;108036;;;60.54;27.56;20;ilmanlaatu (IL);2023
+Virolahti Koivuniemi Ääpälä;100656;;;60.53;27.68;5;ilmanlaatu (IL);2013
+Espoo Leppävaara Läkkisepänkuja;100691;;;60.22;24.81;9;ilmanlaatu (kaupungit);2010
+Espoo Lintuvaara 2;104084;;;60.24;24.81;;ilmanlaatu (kaupungit);2015
+Espoo Luukki;100723;;;60.31;24.68;64;ilmanlaatu (kaupungit);1987
+Espoo Länsiväylä Friisilä;106949;;;60.16;24.71;5;ilmanlaatu (kaupungit);2019
+Espoo Matinkylä;104340;;;60.16;24.75;;ilmanlaatu (kaupungit);1994
+Espoo Otaniemi Kehä I;107148;;;60.18;24.82;17;ilmanlaatu (kaupungit);2020
+Espoo Pohjois-Tapiola 2;107399;;;60.18;24.79;8;ilmanlaatu (kaupungit);2022
+Hamina Satama ratapiha;106415;;;60.54;27.16;4;ilmanlaatu (kaupungit);2016
+Harjavalta Kaleva;103142;;;61.31;22.14;;ilmanlaatu (kaupungit);1978
+Harjavalta Pirkkala;103143;;;61.33;22.14;40;ilmanlaatu (kaupungit);1990
+Heinola Tiilitehtaankatu;105416;;;61.2;26.05;70;ilmanlaatu (kaupungit);2018
+Heinola Tommola;107392;;;61.2;26.05;93;ilmanlaatu (kaupungit);2021
+Heinola Vierumäki;107393;;;61.11;25.93;140;ilmanlaatu (kaupungit);2021
+Helsinki Kallio 2;100662;;;60.19;24.95;21;ilmanlaatu (kaupungit);1999
+Helsinki Katajanokka 2;104053;;;60.17;24.97;;ilmanlaatu (kaupungit);2009
+Helsinki Länsisatama 4;106948;;;60.16;24.92;3;ilmanlaatu (kaupungit);2019
+Helsinki Mannerheimintie;100742;;;60.17;24.94;5;ilmanlaatu (kaupungit);2005
+Helsinki Mäkelänkatu;100762;;;60.2;24.95;25;ilmanlaatu (kaupungit);2015
+Helsinki Paloheinä;107165;;;60.25;24.94;26;ilmanlaatu (kaupungit);2019
+Helsinki Pirkkola;106950;;;60.23;24.92;20;ilmanlaatu (kaupungit);2019
+Helsinki Tapanila;104074;;;60.26;25.02;26;ilmanlaatu (kaupungit);2012
+Helsinki Tapanila 2;108069;;;60.26;25.02;28;ilmanlaatu (kaupungit);2024
+Helsinki Teollisuuskatu;108068;;;60.2;24.94;18;ilmanlaatu (kaupungit);2024
+Helsinki Töölöntulli;104105;;;60.19;24.92;;ilmanlaatu (kaupungit);2006
+Helsinki Vartiokylä Huivipolku;100803;;;60.22;25.1;25;ilmanlaatu (kaupungit);2009
+Helsinki Vuosaaren satama;104089;;;60.22;25.18;;ilmanlaatu (kaupungit);2016
+Hollola Kansankatu siirrettävä;103814;;;60.99;25.52;150;ilmanlaatu (kaupungit);2015
+Hollola Kuntotie;107623;;;60.98;25.53;106;ilmanlaatu (kaupungit);2023
+Hollola Muovitie;104096;;;61;25.53;156;ilmanlaatu (kaupungit);2015
+Hyvinkää;104058;;;60.63;24.86;20;ilmanlaatu (kaupungit);2008
+Hyvinkää Kruununpuisto;107166;;;60.62;24.86;106;ilmanlaatu (kaupungit);2019
+Hämeenlinna Niittykatu;103109;;;61;24.46;85;ilmanlaatu (kaupungit);2011
+Imatra Mansikkala;103118;;;61.19;28.77;75;ilmanlaatu (kaupungit);1998
+Imatra Pelkolan tulliasema Raja;103119;;;61.13;28.84;60;ilmanlaatu (kaupungit);1991
+Imatra Rautionkylä;103121;;;61.24;28.87;101;ilmanlaatu (kaupungit);1987
+Imatra Teppanala;103122;;;61.15;28.81;62;ilmanlaatu (kaupungit);1994
+Joensuu Koskikatu 1;103148;;;62.6;29.76;80;ilmanlaatu (kaupungit);2003
+Juupajoki Hyytiälä;101317;2303;2770;61.85;24.29;154;sää, sade, ilmanlaatu (IL), ilmanlaatu (kaupungit);1956
+Jyväskylä Hannikaisenkatu;106796;;;62.24;25.75;;ilmanlaatu (kaupungit);2018
+Jyväskylä Jyskä;107401;;;62.24;25.84;88;ilmanlaatu (kaupungit);2022
+Jämsä Lääkäritalo;104113;;;61.87;25.2;82;ilmanlaatu (kaupungit);1978
+Jämsä Seppolantie;103129;;;61.87;25.2;90;ilmanlaatu (kaupungit);2013
+Järvenpää Helsingintie;107400;;;60.47;25.09;41;ilmanlaatu (kaupungit);2022
+Kaarina Kaarina;100823;;;60.41;22.38;13;ilmanlaatu (kaupungit);2004
+Kauniainen Kauniaistentie;105405;;;60.21;24.73;;ilmanlaatu (kaupungit);2018
+Kemi Biotuotetehdas;107284;;;65.76;24.54;;ilmanlaatu (kaupungit);2021
+Kemi Keskusta;107218;;;65.73;24.56;10;ilmanlaatu (kaupungit);2020
+Kerava;104104;;;60.4;25.1;50;ilmanlaatu (kaupungit);2005
+Kirkkonummi keskusta;106953;;;60.13;24.43;21;ilmanlaatu (kaupungit);2019
+Kokkola Ykspihlaja;103108;;;63.84;23.04;7;ilmanlaatu (kaupungit);1990
+Kokkola keskusta Pitkänsillankatu;103107;;;63.84;23.13;10;ilmanlaatu (kaupungit);1998
+Kotka Karhula;108070;;;60.52;26.94;4;ilmanlaatu (kaupungit);2024
+Kotka Kirjastotalo;103105;;;60.47;26.94;25;ilmanlaatu (kaupungit);1983
+Kotka Metsäkulma;107167;;;60.5;26.97;4;ilmanlaatu (kaupungit);2020
+Kotka Mussalo satama/siirrettävä;107164;;;60.43;26.92;4;ilmanlaatu (kaupungit);2019
+Kotka Rauhala;103106;;;60.51;26.95;6;ilmanlaatu (kaupungit);1999
+Kotka Ruukinkatu;107285;;;60.47;26.95;8;ilmanlaatu (kaupungit);2021
+Kotka Tiutinen;107622;;;60.47;26.98;4;ilmanlaatu (kaupungit);2022
+Kouvola Inkeroinen tehtaanmäen koulu;105409;;;60.71;26.83;35;ilmanlaatu (kaupungit);2018
+Kouvola Kankaan Koulu;104078;;;60.87;26.7;75;ilmanlaatu (kaupungit);2013
+Kouvola Kuusankoski Mäkikylä;104042;;;60.89;26.59;60;ilmanlaatu (kaupungit);2007
+Kouvola Kuusankoski Urheilukentäntie;103112;;;60.91;26.63;55;ilmanlaatu (kaupungit);1991
+Kuopio Haminalahti;100882;;;62.85;27.53;108;ilmanlaatu (kaupungit);2012
+Kuopio Kasarmipuisto;102102;;;62.89;27.67;112;ilmanlaatu (kaupungit);1994
+Kuopio Kurkimäki;107541;;;62.78;27.5;168;ilmanlaatu (kaupungit);2021
+Kuopio Maaherrankatu;103093;;;62.89;27.69;;ilmanlaatu (kaupungit);2004
+Kuopio Niirala;104098;;;62.89;27.65;122;ilmanlaatu (kaupungit);2015
+Kuopio Savilahti KYS;106954;;;62.9;27.65;102;ilmanlaatu (kaupungit);2019
+Kuopio Sorsasalo;103094;;;62.96;27.7;;ilmanlaatu (kaupungit);1991
+Kuopio Tasavallankatu;103095;;;62.88;27.66;;ilmanlaatu (kaupungit);2009
+Lahti Holma;104092;;;61.01;25.68;95;ilmanlaatu (kaupungit);2010
+Lahti Kisapuisto;103130;;;60.99;25.65;89;ilmanlaatu (kaupungit);1981
+Lahti Laune Pohjoinen Liipolankatu;103131;;;60.97;25.65;85;ilmanlaatu (kaupungit);2000
+Lahti Mustamäenkatu;107282;;;60.96;25.64;83;ilmanlaatu (kaupungit);2020
+Lahti Saimaankatu;103132;;;60.99;25.67;85;ilmanlaatu (kaupungit);2013
+Lahti Satulakatu;103133;;;60.98;25.59;155;ilmanlaatu (kaupungit);2011
+Lahti Vesku 11;103134;;;60.98;25.66;99;ilmanlaatu (kaupungit);1990
+Lappeenranta Ihalainen 2;107563;;;61.04;28.18;84;ilmanlaatu (kaupungit);2022
+Lappeenranta Joutsenon keskusta;103115;;;61.12;28.5;103;ilmanlaatu (kaupungit);1997
+Lappeenranta Lauritsala;103117;;;61.07;28.26;105;ilmanlaatu (kaupungit);1994
+Lappeenranta Ojala-Tuomela;107379;;;61.03;28.21;70;ilmanlaatu (kaupungit);2021
+Lappeenranta Pulp;103120;;;61.13;28.45;105;ilmanlaatu (kaupungit);1996
+Lappeenranta Tirilä Pekkasenkatu;103123;;;61.06;28.25;91;ilmanlaatu (kaupungit);1989
+Lappeenranta keskusta 4;103116;;;61.06;28.18;106;ilmanlaatu (kaupungit);2008
+Lohja Harjula;107147;;;60.25;24.07;70;ilmanlaatu (kaupungit);2020
+Lohja Moisio;107543;;;60.25;24.08;48;ilmanlaatu (kaupungit);2021
+Luoto Vikarholmen;103153;;;63.7;22.76;2;ilmanlaatu (kaupungit);2001
+Mikkeli Porrassalmenkatu;103149;;;61.69;27.27;89;ilmanlaatu (kaupungit);2003
+Naantali keskusta Asematori;100824;;;60.47;22.03;14;ilmanlaatu (kaupungit);1999
+Nastola Kukkasen koulu;104097;;;60.95;25.91;131;ilmanlaatu (kaupungit);2015
+Nastola Rakokiventie siirrettävä;104091;;;60.94;25.96;142;ilmanlaatu (kaupungit);2016
+Oulu Nokela;103124;;;64.99;25.48;8;ilmanlaatu (kaupungit);1979
+Oulu Pyykösjärvi;103126;;;65.04;25.5;8;ilmanlaatu (kaupungit);1991
+Oulu keskusta 2;103125;;;65.01;25.47;5;ilmanlaatu (kaupungit);1997
+Parainen;104064;;;60.3;22.3;3;ilmanlaatu (kaupungit);2010
+Pieksämäki Savontie;104108;;;62.3;27.16;111;ilmanlaatu (kaupungit);2007
+Pietarsaari Bottenviksvägen;103152;;;63.68;22.72;8;ilmanlaatu (kaupungit);1994
+Pori Paanakedonkatu;106420;;;61.48;21.81;2;ilmanlaatu (kaupungit);2016
+Pori Pastuskeri;103135;;;61.66;21.45;3;ilmanlaatu (kaupungit);2012
+Porvoo Mannerheiminkatu;104029;;;60.39;25.66;10;ilmanlaatu (kaupungit);2004
+Porvoo Mustijoki;103139;;;60.36;25.57;10;ilmanlaatu (kaupungit);1991
+Porvoo Nyby;103140;;;60.32;25.5;28;ilmanlaatu (kaupungit);2011
+Porvoo Svartbäck;103141;;;60.29;25.51;15;ilmanlaatu (kaupungit);2013
+Porvoo Vanha Porvoo;107625;;;60.4;25.66;38;ilmanlaatu (kaupungit);2022
+Raahe Lapaluoto;103145;;;64.67;24.42;;ilmanlaatu (kaupungit);1982
+Raahe keskusta;103147;;;64.68;24.48;3;ilmanlaatu (kaupungit);2005
+Raasepori Karjaa;108098;;;60.08;23.69;19;ilmanlaatu (kaupungit);2023
+Raisio Ihala;106630;;;60.47;22.19;10;ilmanlaatu (kaupungit);2017
+Raisio Kaanaa Sakunpiha;106419;;;60.47;22.1;20;ilmanlaatu (kaupungit);2016
+Rauma Sinisaari;778578;;;61.12;21.49;2;ilmanlaatu (kaupungit);1986
+Rauma Tarvonsaari Hallikatu;103113;;;61.13;21.5;3;ilmanlaatu (kaupungit);2002
+Rovaniemi Rovakatu;103816;;;66.5;25.73;;ilmanlaatu (kaupungit);2015
+Salla Värriötunturi;102012;8803;2819;67.75;29.61;360;sää, sade, ilmanlaatu (IL), ilmanlaatu (kaupungit);1971
+Savonlinna Haapasalmi;106418;;;61.87;28.89;79;ilmanlaatu (kaupungit);2016
+Savonlinna Olavinkatu;104045;;;61.87;28.88;79;ilmanlaatu (kaupungit);2004
+Seinäjoki Vapaudentie 6a;103110;;;62.78;22.84;;ilmanlaatu (kaupungit);2011
+Siilinjärvi Kuuslahti;107026;;;63.13;27.77;103;ilmanlaatu (kaupungit);2018
+Siilinjärvi Murtomäki;106629;;;63.14;27.7;123;ilmanlaatu (kaupungit);2017
+Siilinjärvi Musti;105425;;;63.2;27.74;140;ilmanlaatu (kaupungit);2019
+Siilinjärvi Pahkamäki;104099;;;63.18;27.77;143;ilmanlaatu (kaupungit);2015
+Siilinjärvi Ranta;107542;;;63.11;27.76;87;ilmanlaatu (kaupungit);2021
+Siilinjärvi Sorakuja;104017;;;63.07;27.66;;ilmanlaatu (kaupungit);2002
+Siilinjärvi Sulkavanniitty;107268;;;63.09;27.69;95;ilmanlaatu (kaupungit);2020
+Siilinjärvi Vuorelantie;107135;;;62.98;27.7;85;ilmanlaatu (kaupungit);2019
+Tampere Epila 2;103096;;;61.51;23.68;100;ilmanlaatu (kaupungit);2009
+Tampere Kaleva;103097;;;61.5;23.8;109;ilmanlaatu (kaupungit);2009
+Tampere Linja-autoasema;103098;;;61.49;23.77;80;ilmanlaatu (kaupungit);2008
+Tampere Pirkankatu;103099;;;61.5;23.74;120;ilmanlaatu (kaupungit);2003
+Turku Kauppatori 2;107569;;;60.45;22.27;5;ilmanlaatu (kaupungit);2022
+Turku Kauppatori väliaikainen;106797;;;60.45;22.27;6;ilmanlaatu (kaupungit);2018
+Turku Ruissalo Saarontie;100845;;;60.43;22.1;6;ilmanlaatu (kaupungit);1999
+Tuusula Vaunukangas;107280;;;60.41;25;60;ilmanlaatu (kaupungit);2020
+Vaasa Vesitorni;103103;;;63.1;21.6;16;ilmanlaatu (kaupungit);2006
+Vaasa keskusta Vaasanpuistikko;103104;;;63.1;21.62;15;ilmanlaatu (kaupungit);2001
+Vantaa Hämeenlinnanväylä;104083;;;60.27;24.87;29;ilmanlaatu (kaupungit);2015
+Vantaa Jätevoimala;104085;;;60.26;25.14;;ilmanlaatu (kaupungit);2014
+Vantaa Kehä III Varisto;104076;;;60.28;24.82;32;ilmanlaatu (kaupungit);2013
+Vantaa Lentoasema;104048;;;60.31;24.97;20;ilmanlaatu (kaupungit);2006
+Vantaa Ruskeasanta 2;104080;;;60.31;25.01;;ilmanlaatu (kaupungit);2014
+Vantaa Tikkurila Neilikkatie;100763;;;60.29;25.04;21;ilmanlaatu (kaupungit);1996
+Vantaa Tikkurila Talvikkitie;106951;;;60.3;25.03;17;ilmanlaatu (kaupungit);2019
+Vantaa Ylästö;107281;;;60.28;24.91;31;ilmanlaatu (kaupungit);2020
+Varkaus Kommila;107382;;;62.33;27.89;86;ilmanlaatu (kaupungit);2021
+Varkaus Kommila terveyskeskus;107063;;;62.33;27.89;88;ilmanlaatu (kaupungit);2019
+Varkaus Kosulanniemi Rantalankatu;106417;;;62.32;27.91;85;ilmanlaatu (kaupungit);2016
+Varkaus Psaari 2;103100;;;62.31;27.89;80;ilmanlaatu (kaupungit);2003
+Varkaus Taulumäki (toripaviljonki);103102;;;62.32;27.87;86;ilmanlaatu (kaupungit);2001
+Varkaus kaupungintalo;104188;;;62.31;27.89;78;ilmanlaatu (kaupungit);1991
+Äänekoski Hiski;103151;;;62.6;25.74;110;ilmanlaatu (kaupungit);2004
+Äänekoski Paloasema;107168;;;62.6;25.74;;ilmanlaatu (kaupungit);2020

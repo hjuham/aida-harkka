@@ -1,0 +1,444 @@
+Päivämäärä,Mittausverkko,Mittauspaikka,Komponentti,Pitoisuus
+03.06.2024,,Helsinki Teollisuuskatu,PM2.5 24h,16
+03.06.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,19
+03.06.2024,,Helsinki Teollisuuskatu,PM10 24h,54
+02.06.2024,Joensuun verkko,Joensuu Koskikatu 1,PM2.5 24h,16
+02.06.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,19
+02.06.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,16
+02.06.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,16
+02.06.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,16
+02.06.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,19
+01.06.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,18
+01.06.2024,,Espoo Lintuvaara 2,PM2.5 24h,17
+01.06.2024,Helsingin seudun verkko (HSY),Espoo Luukki,PM2.5 24h,16
+01.06.2024,Harjavallan verkko,Harjavalta Kaleva,PM2.5 24h,17
+01.06.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,20
+01.06.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,23
+01.06.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,16
+01.06.2024,,Helsinki Teollisuuskatu,PM2.5 24h,18
+01.06.2024,Helsingin seudun verkko (HSY),Helsinki Vartiokylä Huivipolku,PM2.5 24h,16
+01.06.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,20
+01.06.2024,Joensuun verkko,Joensuu Koskikatu 1,PM2.5 24h,21
+01.06.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,19
+01.06.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,17
+01.06.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,21
+01.06.2024,Kokkolan verkko,Kokkola Ykspihlaja,PM2.5 24h,17
+01.06.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,16
+01.06.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,16
+01.06.2024,Etelä-Karjalan verkko,Lappeenranta Pulp,PM2.5 24h,27
+01.06.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,21
+01.06.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM2.5 24h,16
+01.06.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,22
+01.06.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,55
+31.05.2024,,Virolahti Harju,PM2.5 24h,17
+31.05.2024,Harjavallan verkko,Harjavalta Kaleva,PM2.5 24h,16
+31.05.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,17
+31.05.2024,Helsingin seudun verkko (HSY),Helsinki Kallio 2,PM2.5 24h,19
+31.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,22
+31.05.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,16
+31.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,20
+31.05.2024,Helsingin seudun verkko (HSY),Helsinki Vartiokylä Huivipolku,PM2.5 24h,17
+31.05.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,16
+31.05.2024,Joensuun verkko,Joensuu Koskikatu 1,PM2.5 24h,20
+31.05.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,21
+31.05.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,20
+31.05.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,18
+31.05.2024,Kokkolan verkko,Kokkola Ykspihlaja,PM2.5 24h,26
+31.05.2024,,Kotka Karhula,PM2.5 24h,17
+31.05.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,19
+31.05.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,16
+31.05.2024,Kuopion verkko,Kuopio Niirala,PM2.5 24h,17
+31.05.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,16
+31.05.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,20
+31.05.2024,Etelä-Karjalan verkko,Lappeenranta Pulp,PM2.5 24h,21
+31.05.2024,Etelä-Karjalan verkko,Lappeenranta Tirilä Pekkasenkatu,PM2.5 24h,21
+31.05.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,23
+31.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,23
+31.05.2024,Raahen verkko,Raahe keskusta,PM2.5 24h,17
+31.05.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM2.5 24h,16
+31.05.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,22
+31.05.2024,,Helsinki Teollisuuskatu,PM10 24h,56
+30.05.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,16
+30.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,18
+30.05.2024,Etelä-Karjalan verkko,Imatra Teppanala,PM2.5 24h,24
+30.05.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,16
+30.05.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,16
+30.05.2024,Kokkolan verkko,Kokkola Ykspihlaja,PM2.5 24h,16
+30.05.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,17
+30.05.2024,Kuopion verkko,Kuopio Niirala,PM2.5 24h,16
+30.05.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,17
+30.05.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,18
+30.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,19
+30.05.2024,Raahen verkko,Raahe keskusta,PM2.5 24h,18
+30.05.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,16
+30.05.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,19
+30.05.2024,,Helsinki Teollisuuskatu,PM10 24h,69
+29.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,18
+29.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,22
+29.05.2024,Etelä-Karjalan verkko,Imatra Teppanala,PM2.5 24h,20
+29.05.2024,Joensuun verkko,Joensuu Koskikatu 1,PM2.5 24h,18
+29.05.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,18
+29.05.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,16
+29.05.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,19
+29.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,17
+29.05.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,19
+29.05.2024,,Helsinki Teollisuuskatu,PM10 24h,79
+28.05.2024,,Virolahti Harju,PM2.5 24h,19
+28.05.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,16
+28.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,18
+28.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,17
+28.05.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,16
+28.05.2024,Etelä-Karjalan verkko,Imatra Teppanala,PM2.5 24h,19
+28.05.2024,,Kotka Karhula,PM2.5 24h,19
+28.05.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,20
+27.05.2024,Ilmatieteen laitoksen verkko,Parainen Utö,PM2.5 24h,20
+27.05.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,17
+27.05.2024,Harjavallan verkko,Harjavalta Kaleva,PM2.5 24h,18
+27.05.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,19
+27.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,19
+27.05.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,16
+27.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,18
+27.05.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,18
+27.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,22
+27.05.2024,Tampereen verkko,Tampere Kaleva,PM2.5 24h,17
+27.05.2024,Tampereen verkko,Tampere Pirkankatu,PM2.5 24h,16
+26.05.2024,,Virolahti Harju,PM2.5 24h,18
+26.05.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,19
+26.05.2024,,Espoo Lintuvaara 2,PM2.5 24h,18
+26.05.2024,Helsingin seudun verkko (HSY),Espoo Luukki,PM2.5 24h,18
+26.05.2024,Harjavallan verkko,Harjavalta Kaleva,PM2.5 24h,20
+26.05.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,24
+26.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,21
+26.05.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,17
+26.05.2024,,Helsinki Teollisuuskatu,PM2.5 24h,18
+26.05.2024,Helsingin seudun verkko (HSY),Helsinki Vartiokylä Huivipolku,PM2.5 24h,17
+26.05.2024,Lahden verkko,Hollola Kansankatu siirrettävä,PM2.5 24h,17
+26.05.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,17
+26.05.2024,,Kotka Karhula,PM2.5 24h,16
+26.05.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,19
+26.05.2024,Lahden verkko,Lahti Saimaankatu,PM2.5 24h,18
+26.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,25
+26.05.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM2.5 24h,18
+26.05.2024,Tampereen verkko,Tampere Kaleva,PM2.5 24h,16
+25.05.2024,Harjavallan verkko,Harjavalta Kaleva,PM2.5 24h,16
+25.05.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,21
+25.05.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,19
+25.05.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,20
+25.05.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,29
+25.05.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM2.5 24h,17
+25.05.2024,Tampereen verkko,Tampere Kaleva,PM2.5 24h,16
+25.05.2024,Tampereen verkko,Tampere Pirkankatu,PM2.5 24h,17
+25.05.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,18
+23.05.2024,Helsingin seudun verkko (HSY),Espoo Luukki,PM10 24h,61
+23.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,58
+22.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,80
+18.05.2024,Oulun verkko,Oulu keskusta 2,PM10 24h,53
+16.05.2024,Turun seudun verkko,Parainen,PM10 24h,51
+14.05.2024,Raahen verkko,Raahe Lapaluoto,PM10 24h,52
+03.05.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,61
+03.05.2024,,Helsinki Teollisuuskatu,PM10 24h,53
+03.05.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,67
+02.05.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,67
+02.05.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,76
+02.05.2024,,Helsinki Teollisuuskatu,PM10 24h,59
+02.05.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,52
+02.05.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,69
+02.05.2024,Tampereen verkko,Tampere Pirkankatu,PM10 24h,55
+02.05.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,70
+02.05.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,88
+30.04.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,71
+30.04.2024,,Helsinki Teollisuuskatu,PM10 24h,60
+30.04.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,64
+29.04.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM10 24h,51
+29.04.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,61
+29.04.2024,,Helsinki Teollisuuskatu,PM10 24h,71
+29.04.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,61
+27.04.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,63
+27.04.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,64
+26.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,53
+19.04.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,59
+19.04.2024,Oulun verkko,Oulu keskusta 2,PM10 24h,54
+19.04.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,53
+16.04.2024,,Helsinki Teollisuuskatu,PM10 24h,62
+13.04.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,63
+13.04.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,92
+13.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,52
+12.04.2024,Lahden verkko,Hollola Kansankatu siirrettävä,PM10 24h,79
+12.04.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM10 24h,58
+12.04.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,62
+12.04.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,87
+12.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,79
+12.04.2024,Lahden verkko,Lahti Saimaankatu,PM10 24h,112
+12.04.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,81
+12.04.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,63
+11.04.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,53
+11.04.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,59
+11.04.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,91
+10.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,51
+10.04.2024,Lahden verkko,Lahti Saimaankatu,PM10 24h,51
+09.04.2024,,Helsinki Teollisuuskatu,PM10 24h,64
+09.04.2024,Etelä-Karjalan verkko,Imatra Mansikkala,PM10 24h,52
+09.04.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM10 24h,51
+09.04.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,65
+09.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,89
+09.04.2024,Lahden verkko,Lahti Saimaankatu,PM10 24h,59
+09.04.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,53
+09.04.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,51
+09.04.2024,Tampereen verkko,Tampere Epila 2,PM10 24h,94
+09.04.2024,Tampereen verkko,Tampere Pirkankatu,PM10 24h,54
+05.04.2024,,Kotka Karhula,PM2.5 24h,20
+05.04.2024,Kokkolan verkko,Kokkola keskusta Pitkänsillankatu,PM10 24h,52
+05.04.2024,,Kotka Karhula,PM10 24h,53
+05.04.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,71
+05.04.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,56
+05.04.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,64
+05.04.2024,,Sotkamo Terrafame Taattola,PM10 24h,82
+05.04.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,59
+04.04.2024,Varkauden verkko,Varkaus Psaari 2,PM2.5 24h,20
+04.04.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,54
+04.04.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM10 24h,55
+04.04.2024,Kokkolan verkko,Kokkola keskusta Pitkänsillankatu,PM10 24h,64
+04.04.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,51
+04.04.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,103
+04.04.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,59
+04.04.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,68
+04.04.2024,Tampereen verkko,Tampere Epila 2,PM10 24h,56
+04.04.2024,Vaasan verkko,Vaasa keskusta Vaasanpuistikko,PM10 24h,61
+04.04.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,149
+03.04.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,57
+03.04.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,80
+03.04.2024,Tampereen verkko,Tampere Epila 2,PM10 24h,61
+03.04.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,97
+02.04.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,64
+01.04.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,18
+01.04.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,18
+01.04.2024,,Helsinki Teollisuuskatu,PM2.5 24h,20
+01.04.2024,,Kotka Karhula,PM2.5 24h,18
+01.04.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM2.5 24h,17
+01.04.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM10 24h,83
+01.04.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,83
+01.04.2024,,Helsinki Teollisuuskatu,PM10 24h,97
+01.04.2024,,Kotka Karhula,PM10 24h,52
+01.04.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,93
+01.04.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM10 24h,68
+29.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,54
+29.03.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,54
+28.03.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,17
+28.03.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM10 24h,94
+28.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,72
+28.03.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM10 24h,55
+26.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,21
+26.03.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,21
+26.03.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM10 24h,72
+26.03.2024,,Helsinki Teollisuuskatu,PM10 24h,56
+26.03.2024,Turun seudun verkko,Kaarina Kaarina,PM10 24h,61
+26.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,107
+26.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,135
+26.03.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM10 24h,73
+26.03.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,61
+26.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,79
+26.03.2024,Vaasan verkko,Vaasa keskusta Vaasanpuistikko,PM10 24h,65
+26.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,67
+25.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,19
+25.03.2024,,Helsinki Teollisuuskatu,PM2.5 24h,16
+25.03.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM10 24h,80
+25.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,125
+25.03.2024,,Helsinki Teollisuuskatu,PM10 24h,106
+25.03.2024,Turun seudun verkko,Kaarina Kaarina,PM10 24h,72
+25.03.2024,Lohjan verkko,Lohja Harjula,PM10 24h,79
+25.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,56
+25.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,158
+24.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,61
+19.03.2024,,Sotkamo Terrafame Taattola,PM2.5 24h,19
+19.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,75
+19.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,60
+19.03.2024,,Sotkamo Terrafame Taattola,PM10 24h,155
+19.03.2024,Äänekosken verkko,Äänekoski Paloasema,PM10 24h,64
+18.03.2024,Harjavallan verkko,Harjavalta Pirkkala,PM2.5 24h,16
+18.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,29
+18.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,16
+18.03.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,27
+18.03.2024,,Sotkamo Terrafame Taattola,PM2.5 24h,33
+18.03.2024,Harjavallan verkko,Harjavalta Pirkkala,PM10 24h,67
+18.03.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM10 24h,64
+18.03.2024,Kokkolan verkko,Kokkola keskusta Pitkänsillankatu,PM10 24h,60
+18.03.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,100
+18.03.2024,Kuopion verkko,Kuopio Niirala,PM10 24h,55
+18.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,236
+18.03.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,128
+18.03.2024,Oulun verkko,Oulu keskusta 2,PM10 24h,64
+18.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,120
+18.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,112
+18.03.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,213
+18.03.2024,,Sotkamo Terrafame Taattola,PM10 24h,283
+17.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,56
+17.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,61
+17.03.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,71
+16.03.2024,Ilmatieteen laitoksen verkko,Parainen Utö,PM2.5 24h,28
+16.03.2024,Ilmatieteen laitoksen verkko,Virolahti Koivuniemi Ääpälä,PM2.5 24h,22
+16.03.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,25
+16.03.2024,,Espoo Lintuvaara 2,PM2.5 24h,24
+16.03.2024,Helsingin seudun verkko (HSY),Espoo Luukki,PM2.5 24h,19
+16.03.2024,Helsingin seudun verkko (HSY),Helsinki Kallio 2,PM2.5 24h,16
+16.03.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM2.5 24h,25
+16.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,26
+16.03.2024,,Helsinki Teollisuuskatu,PM2.5 24h,26
+16.03.2024,Helsingin seudun verkko (HSY),Helsinki Vartiokylä Huivipolku,PM2.5 24h,24
+16.03.2024,Lahden verkko,Hollola Kansankatu siirrettävä,PM2.5 24h,16
+16.03.2024,,Kotka Karhula,PM2.5 24h,20
+16.03.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,25
+16.03.2024,Lahden verkko,Lahti Saimaankatu,PM2.5 24h,18
+16.03.2024,Etelä-Karjalan verkko,Lappeenranta Ojala-Tuomela,PM2.5 24h,19
+16.03.2024,Lohjan verkko,Lohja Harjula,PM2.5 24h,18
+16.03.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM2.5 24h,17
+16.03.2024,Turun seudun verkko,Turku Kauppatori 2,PM2.5 24h,21
+15.03.2024,Ilmatieteen laitoksen verkko,Parainen Utö,PM2.5 24h,21
+14.03.2024,Ilmatieteen laitoksen verkko,Parainen Utö,PM2.5 24h,17
+14.03.2024,Ilmatieteen laitoksen verkko,Virolahti Koivuniemi Ääpälä,PM2.5 24h,16
+13.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,18
+13.03.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,19
+13.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,66
+13.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,54
+13.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,66
+13.03.2024,,Sotkamo Terrafame Taattola,PM10 24h,57
+12.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,19
+12.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,21
+12.03.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,22
+12.03.2024,Turun seudun verkko,Kaarina Kaarina,PM10 24h,68
+12.03.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,107
+12.03.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,67
+12.03.2024,Turun seudun verkko,Naantali keskusta Asematori,PM10 24h,66
+12.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,107
+12.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,101
+12.03.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM10 24h,89
+12.03.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,53
+12.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,83
+12.03.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,73
+12.03.2024,,Sotkamo Terrafame Taattola,PM10 24h,74
+12.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,64
+11.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM2.5 24h,17
+11.03.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,26
+11.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM2.5 24h,20
+11.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,96
+11.03.2024,,Helsinki Teollisuuskatu,PM10 24h,82
+11.03.2024,Turun seudun verkko,Kaarina Kaarina,PM10 24h,72
+11.03.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,52
+11.03.2024,Turun seudun verkko,Naantali keskusta Asematori,PM10 24h,82
+11.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,94
+11.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,130
+11.03.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM10 24h,90
+11.03.2024,Etelä-Savon verkko,Savonlinna Olavinkatu,PM10 24h,51
+11.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,101
+11.03.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,52
+11.03.2024,Turun seudun verkko,Turku Kauppatori 2,PM10 24h,61
+11.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,134
+10.03.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,18
+10.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,107
+10.03.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM10 24h,67
+10.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,63
+10.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,106
+09.03.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,58
+09.03.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,58
+09.03.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM10 24h,54
+09.03.2024,Porin verkko,Pori Paanakedonkatu,PM10 24h,74
+09.03.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,53
+09.03.2024,Tampereen verkko,Tampere Epila 2,PM10 24h,72
+09.03.2024,Varkauden verkko,Varkaus Psaari 2,PM10 24h,52
+06.03.2024,Helsingin seudun verkko (HSY),Helsinki Mannerheimintie,PM10 24h,59
+06.03.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,69
+06.03.2024,Rauman verkko,Rauma Tarvonsaari Hallikatu,PM10 24h,67
+06.03.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,108
+05.03.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,65
+04.03.2024,Etelä-Karjalan verkko,Lappeenranta Ojala-Tuomela,PM2.5 24h,18
+18.02.2024,Helsingin seudun verkko (HSY),Helsinki Mäkelänkatu,PM10 24h,59
+15.02.2024,Ilmatieteen laitoksen verkko,Virolahti Koivuniemi Ääpälä,PM2.5 24h,16
+15.02.2024,Lahden verkko,Hollola Kansankatu siirrettävä,PM2.5 24h,19
+15.02.2024,Kotkan verkko,Kotka Kirjastotalo,PM2.5 24h,20
+15.02.2024,Lahden verkko,Lahti Saimaankatu,PM2.5 24h,19
+12.02.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,16
+12.02.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,22
+12.02.2024,Kuopion verkko,Kuopio Niirala,PM2.5 24h,17
+12.02.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,17
+12.02.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,20
+12.02.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,54
+11.02.2024,Kokkolan verkko,Kokkola Ykspihlaja,PM2.5 24h,16
+11.02.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,16
+11.02.2024,Kuopion verkko,Kuopio Niirala,PM2.5 24h,18
+11.02.2024,Kuopion verkko,Kuopio Savilahti KYS,PM2.5 24h,20
+11.02.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,19
+11.02.2024,Etelä-Karjalan verkko,Lappeenranta Ojala-Tuomela,PM2.5 24h,23
+11.02.2024,Etelä-Karjalan verkko,Lappeenranta Pulp,PM2.5 24h,19
+11.02.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,17
+11.02.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,19
+11.02.2024,Raahen verkko,Raahe Lapaluoto,PM10 24h,60
+10.02.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,19
+10.02.2024,Kokkolan verkko,Kokkola Ykspihlaja,PM2.5 24h,21
+10.02.2024,Etelä-Karjalan verkko,Lappeenranta Pulp,PM2.5 24h,22
+10.02.2024,Oulun verkko,Oulu Nokela,PM2.5 24h,16
+10.02.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,20
+10.02.2024,Turun seudun verkko,Turku Kauppatori 2,PM10 24h,54
+09.02.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,19
+09.02.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,22
+09.02.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM2.5 24h,17
+09.02.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM10 24h,51
+09.02.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM10 24h,58
+09.02.2024,Turun seudun verkko,Turku Kauppatori 2,PM10 24h,55
+09.02.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM10 24h,78
+08.02.2024,Jyväskylän verkko,Jyväskylä Hannikaisenkatu,PM2.5 24h,17
+08.02.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,25
+08.02.2024,Turun seudun verkko,Turku Kauppatori 2,PM2.5 24h,17
+08.02.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,126
+08.02.2024,Turun seudun verkko,Turku Kauppatori 2,PM10 24h,68
+06.02.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,17
+21.01.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM2.5 24h,20
+20.01.2024,,Espoo Lintuvaara 2,PM2.5 24h,16
+20.01.2024,Etelä-Karjalan verkko,Lappeenranta Tirilä Pekkasenkatu,PM2.5 24h,17
+20.01.2024,Turun seudun verkko,Raisio Ihala,PM2.5 24h,18
+20.01.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM2.5 24h,17
+20.01.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM2.5 24h,17
+16.01.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,16
+16.01.2024,Raahen verkko,Raahe keskusta,PM2.5 24h,16
+07.01.2024,Helsingin seudun verkko (HSY),Espoo Leppävaara Läkkisepänkuja,PM2.5 24h,27
+07.01.2024,,Espoo Lintuvaara 2,PM2.5 24h,23
+07.01.2024,Helsingin seudun verkko (HSY),Helsinki Vartiokylä Huivipolku,PM2.5 24h,21
+07.01.2024,Hämeenlinnan verkko,Hämeenlinna Niittykatu,PM2.5 24h,21
+07.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,17
+07.01.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,17
+07.01.2024,Turun seudun verkko,Raisio Ihala,PM2.5 24h,29
+07.01.2024,Tampereen verkko,Tampere Kaleva,PM2.5 24h,17
+07.01.2024,Tampereen verkko,Tampere Linja-autoasema,PM2.5 24h,16
+07.01.2024,Turun seudun verkko,Turku Kauppatori 2,PM2.5 24h,23
+07.01.2024,Helsingin seudun verkko (HSY),Vantaa Hämeenlinnanväylä,PM2.5 24h,22
+07.01.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM2.5 24h,25
+07.01.2024,Lahden verkko,Lahti Laune Pohjoinen Liipolankatu,PM10 24h,66
+06.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,27
+06.01.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,16
+06.01.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,21
+06.01.2024,Helsingin seudun verkko (HSY),Vantaa Tikkurila Neilikkatie,PM2.5 24h,19
+06.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM10 24h,57
+06.01.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,67
+05.01.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,21
+05.01.2024,Kuopion verkko,Kuopio Niirala,PM2.5 24h,17
+05.01.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,27
+05.01.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,31
+05.01.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,63
+05.01.2024,Kuopion verkko,Kuopio Tasavallankatu,PM10 24h,79
+05.01.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,60
+04.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,19
+04.01.2024,Kuopion verkko,Kuopio Maaherrankatu,PM2.5 24h,19
+04.01.2024,Kuopion verkko,Kuopio Tasavallankatu,PM2.5 24h,22
+04.01.2024,Pietarsaaren seudun verkko,Pietarsaari Bottenviksvägen,PM2.5 24h,16
+04.01.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM2.5 24h,17
+04.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM10 24h,57
+04.01.2024,Kuopion verkko,Kuopio Maaherrankatu,PM10 24h,64
+04.01.2024,Kuopion verkko,Siilinjärvi Sorakuja,PM10 24h,57
+03.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,16
+03.01.2024,Kuopion verkko,Kuopio Savilahti KYS,PM10 24h,51
+02.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,24
+02.01.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,16
+02.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM10 24h,71
+01.01.2024,Jyväskylän verkko,Jyväskylä Jyskä,PM2.5 24h,19
+01.01.2024,Kemin verkko,Kemi Biotuotetehdas,PM2.5 24h,20
+01.01.2024,Porin verkko,Pori Paanakedonkatu,PM2.5 24h,24
+01.01.2024,Rovaniemen verkko,Rovaniemi Rovakatu,PM2.5 24h,18
+01.01.2024,Seinäjoen verkko,Seinäjoki Vapaudentie 6a,PM10 24h,69

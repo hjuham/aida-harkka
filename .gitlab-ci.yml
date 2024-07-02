@@ -1,0 +1,31 @@
+#Rakentaa sovelluksen gitlab pages ympäristöön
+image: node
+
+build:
+    stage: build
+    variables:
+        PUBLIC_URL: /
+    script:
+        - cd app
+        - npm install
+        - npm run build
+    tags:
+        - general
+    artifacts:
+        paths:
+            - app/build
+pages:
+    stage: deploy
+    dependencies:
+        - build
+    script:
+        - cd app
+        - rm -rf /public
+        - mv build ../public
+    tags:
+        - general
+    artifacts:
+        paths:
+            - public
+    only:
+        - main
