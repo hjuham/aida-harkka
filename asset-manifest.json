@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/aida-harkka/static/css/main.da735c3a.css",
+    "main.js": "/aida-harkka/static/js/main.fb2fb806.js",
+    "static/js/344.e72f640b.chunk.js": "/aida-harkka/static/js/344.e72f640b.chunk.js",
+    "static/js/728.bfd8688f.chunk.js": "/aida-harkka/static/js/728.bfd8688f.chunk.js",
+    "static/js/752.6a2b7998.chunk.js": "/aida-harkka/static/js/752.6a2b7998.chunk.js",
+    "static/js/12.19c5e19a.chunk.js": "/aida-harkka/static/js/12.19c5e19a.chunk.js",
+    "static/media/preview.PNG": "/aida-harkka/static/media/preview.2c3ac4f053575f48e139.PNG",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/aida-harkka/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/aida-harkka/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/aida-harkka/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/aida-harkka/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/aida-harkka/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/humanitarian.PNG": "/aida-harkka/static/media/humanitarian.a51788e8cbb78c05a356.PNG",
+    "static/media/standard.PNG": "/aida-harkka/static/media/standard.529eaac0abe5ea87be63.PNG",
+    "static/media/navigation.png": "/aida-harkka/static/media/navigation.96f85fcc3ca5373789d6.png",
+    "index.html": "/aida-harkka/index.html",
+    "static/media/bars-solid.svg": "/aida-harkka/static/media/bars-solid.03d9a55d579bbbad87f8c39039051621.svg",
+    "main.da735c3a.css.map": "/aida-harkka/static/css/main.da735c3a.css.map",
+    "main.fb2fb806.js.map": "/aida-harkka/static/js/main.fb2fb806.js.map",
+    "344.e72f640b.chunk.js.map": "/aida-harkka/static/js/344.e72f640b.chunk.js.map",
+    "728.bfd8688f.chunk.js.map": "/aida-harkka/static/js/728.bfd8688f.chunk.js.map",
+    "752.6a2b7998.chunk.js.map": "/aida-harkka/static/js/752.6a2b7998.chunk.js.map",
+    "12.19c5e19a.chunk.js.map": "/aida-harkka/static/js/12.19c5e19a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da735c3a.css",
+    "static/js/main.fb2fb806.js"
+  ]
+}
