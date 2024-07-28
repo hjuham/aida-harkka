@@ -17,7 +17,7 @@ Ilmanlaatua käsittelevät koodit hyödyntävät edellä mainittujen teknologioi
 
 ## Tienhoito web-sovellus
 
-Sovellusta voi kokeilla osoitteessa: http://aida2.labranet.jamk.fi/tienhoito/
+Sovellusta voi kokeilla osoitteessa: https://hjuham.github.io/aida-harkka/
 
 ## Toimeksianto
 
