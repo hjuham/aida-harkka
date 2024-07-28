@@ -1,6 +1,6 @@
 {
     "name": "tienhoito",
-    "homepage": "./",
+    "homepage": "https://hjuham.github.io/aida-harkka",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -29,7 +29,9 @@
         "eject": "react-scripts eject",
         "cypress:open": "cypress open",
         "e2e": "cypress run",
-        "lint": "eslint ."
+        "lint": "eslint .",
+        "predeploy": "cross-env REACT_APP_USE_LOCAL_DATA=false react-scripts build",
+        "deploy": "gh-pages -d app/build"
     },
     "eslintConfig": {
         "extends": [
@@ -56,6 +58,7 @@
         "cypress": "^13.7.0",
         "eslint": "^8.57.0",
         "eslint-plugin-cypress": "^2.15.1",
+        "gh-pages": "^6.1.1",
         "prettier": "3.2.5"
     }
 }
