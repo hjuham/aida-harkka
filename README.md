@@ -7,8 +7,6 @@ Repositorio sisältää teiden kunnossapidon visualisointiin toteutetun web-sove
 -   [Sovellus](app)
 -   [Ilmanlaaturaportti ja toteutus](ilmanlaatu)
 
-Katso [issuet](https://gitlab.labranet.jamk.fi/aida-harjoittelijat/tienhoito/-/issues) jatkokehitystä tai mahdollisesti valmistuvia ominaisuuksia varten.
-
 ## Teknologiat
 
 Kaluston liikkumisen visualisointi on [Reactilla](https://react.dev/) toteutettu web-sovellus, joka hyödyntää [Leaflet](https://leafletjs.com/)- ja [React Leaflet](https://react-leaflet.js.org/)-kirjastoja visualisoimaan huoltokaluston liikkeet toimeksiannon mukaisesti. Toteutuksen data on peräisin [Digitrafficin rajapinnasta](https://www.digitraffic.fi/tieliikenne/#maanteiden-kunnossapitotiedot), josta löytyy tarkemmat [Swagger-kuvaukset](https://tie.digitraffic.fi/swagger/#/Maintenance%20V1). Toteutus hyödyntää [OpenStreetMappia](https://www.openstreetmap.org/) karttapohjana.
